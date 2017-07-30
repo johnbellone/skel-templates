@@ -1,0 +1,15 @@
+[skel]
+repository = "https://github.com/johnbellone/skel-templates"
+
+[generators.chef]
+aliases = ["chefdk"]
+
+[generators.salt]
+aliases = ["saltstack"]
+
+[generators.golang]
+directory = "go"
+aliases = ["go"]
+
+[templates.license]
+name = "license"
