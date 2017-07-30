@@ -1,0 +1,11 @@
+repository: https://github.com/johnbellone/skel-templates
+generators:
+  - name: chef
+    aliases: chefdk
+  - name: salt
+    aliases: saltstack
+  - name: golang
+    directory: go
+    aliases: go
+templates:
+  - name: license

@@ -1,0 +1,6 @@
+package: github.com/johnbellone/skel
+homepage: https://github.com/johnbellone/skel
+license: {{ License.Name }}
+owners:
+  - name: {{ Author.Name }}
+    email: {{ Author.Email }}
